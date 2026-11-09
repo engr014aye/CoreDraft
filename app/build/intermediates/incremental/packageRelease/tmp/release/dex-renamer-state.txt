@@ -1,0 +1,4 @@
+#Sat Nov 07 20:56:40 PKT 2026
+base.0=D\:\\Antigravity\\CoreDraft\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
